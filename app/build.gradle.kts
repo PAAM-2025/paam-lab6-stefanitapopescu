@@ -14,7 +14,7 @@ android {
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"
-        manifestPlaceholders["GOOGLE_MAPS_API_KEY"] = ""
+        manifestPlaceholders["GOOGLE_MAPS_API_KEY"] = "AIzaSyAWZ3VQNp9hPvZlEW7RGg8lGQr2IVSbsXY"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
